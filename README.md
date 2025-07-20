@@ -1,6 +1,6 @@
-## Hi there 👋, My Name is KTango..
-
-<!--
+## Hi there 👋, My Name is KTango..I am very new to the Git process,and can always use pointers!! i Dont mind constructive criticism , especially when im learning , as i am learning !!
+i am a cybersecurity , and Networking person , i am working at a Level 2 desktop support job currently and working towards a bachelors degree in cloud computing and a dew AI certs to go along with the A.a.s.in Networking and Cyber sec., 
+<!--## I am very new to the Git process,and can always use pointers!! i Dont mind constructive criticism , especially when im learning , as i am learning !!
 **ktango/ktango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
